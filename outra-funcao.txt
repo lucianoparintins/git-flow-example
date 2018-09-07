@@ -1,0 +1,12 @@
+git checkout -b feature/outra-funcao
+
+git add .
+
+git commit -m "Outra função"
+
+git checkout develop 
+
+git merge feature/outra-funcao
+
+git push origin develop
+
