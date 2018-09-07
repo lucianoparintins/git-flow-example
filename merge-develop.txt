@@ -1,0 +1,6 @@
+git checkout develop
+
+git merge feature/nova-funcionalidade
+
+
+git push origin develop
