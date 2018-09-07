@@ -1,0 +1,10 @@
+git checkout -b hotfix/novo-bug
+
+git add .
+
+git commit -m "Novo bug"
+
+git checkout master
+
+git merge hotfix/novo-bug
+
