@@ -1,0 +1,11 @@
+git checkout -b outro-bug 
+
+git add . 
+
+git commit -m "Outro bug"
+
+git checkout develop
+
+git merge outro-bug
+
+--Novo teste para o Pull request
