@@ -3,3 +3,5 @@ Novo commit
 git add .
 
 git commit -m "Novo commit"
+
+--novo componente no develop
