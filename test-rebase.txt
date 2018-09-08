@@ -1,0 +1,4 @@
+git checkout test-rebase
+
+git rebase master
+
